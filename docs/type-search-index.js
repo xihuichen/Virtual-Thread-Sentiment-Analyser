@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ie.atu.sw","l":"ConsoleColour"},{"p":"ie.atu.sw","l":"DirectorySpecification"},{"p":"ie.atu.sw","l":"LexiconConfig"},{"p":"ie.atu.sw","l":"MapwithLexicon"},{"p":"ie.atu.sw","l":"Menu"},{"p":"ie.atu.sw","l":"Runner"}];updateSearchResults();
